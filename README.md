@@ -14,6 +14,6 @@ This repository contains the excel used for Vrinda Store Annual report. In this 
 
  # Final Conclusion to improve Vrinda store sales:
 Target women customers of age group (30-60 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra.
+![image](https://github.com/alpanakislay/Store-Annual-report/assets/170240674/5862ff44-0e98-4379-9e89-2f96c933a667)
 
-![image](https://github.com/alpanakislay/Store-Annual-report/assets/170240674/7afe03f4-8882-48c3-94ef-919e075568ac)
 
