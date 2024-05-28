@@ -11,9 +11,9 @@ This repository contains the excel used for Vrinda Store Annual report. In this 
  
  Create Insights / Dashboard
  # Insights Created
-* Women are more likely to buy compared to men (~65%)
+* Women are more likely to buy compared to men (~64%)
 * Maharashtra, Karnataka and Uttar Pradesh are the top 3 states (~35%)
-* Adult age group (30-60 yrs) is max contributing (~64%)
+* Adult age group (30-60 yrs) is max contributing (~39%)
 * Amazon, Flipkart and Myntra channels are max contributing (~80%)
 
  # Final Conclusion to improve Vrinda store sales:
