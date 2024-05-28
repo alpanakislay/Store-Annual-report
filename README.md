@@ -2,9 +2,13 @@
 This repository contains the excel used for Vrinda Store Annual report. In this project, I worked with a dataset related to store data. The goal is to Vrinda can understand their customers and grow more sales in 2024.
  # Skills Learnt
  Data Cleaning
+ 
  Null and duplicate data should not be avaliable
+ 
  Data processing
+ 
  Calculation for the Analysis
+ 
  Create Insights / Dashboard
  # Insights Created
 * Women are more likely to buy compared to men (~65%)
